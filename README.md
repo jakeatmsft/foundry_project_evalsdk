@@ -1,5 +1,6 @@
 # Azure AI Evaluation SDK - Foundry Project Type (Microsoft.CognitiveService) Evaluation
 
+![image](https://github.com/user-attachments/assets/5e6b4e6b-150a-43a4-8c7d-b05dea57a4e6)
 
 This repository contains examples demonstrating how to use the Azure AI Evaluation SDK for evaluating AI applications and LLMs both locally and in the cloud.
 
